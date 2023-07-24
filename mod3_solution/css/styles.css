@@ -1,0 +1,25 @@
+
+body {
+  font-size: 16px;
+  color: #fff;
+  /* background-color: #61122f; */
+  font-family: 'Oxygen', sans-serif;
+}
+h3,h5{
+  color:black;
+  text-align: center;
+}
+li{
+  border: black;
+  border-width: 5px;
+}
+.container{
+  background-color: dimgrey;
+  margin-top: 30px;
+}
+/** HEADER **/
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
